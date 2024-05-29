@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <font size="20">
+  <head style="font-size:10px;">
       How I Like to Code
-    </font>
   </head>
   <p>
     There are two primary conditions I require in order to write code well. The first such condition is an area in which I have a good degree of control over the surrounding audio. The second condition is the ability to run my code, so that I may ensure that my code is working as intended.
   </p>
-  <head>
-    <font size="20">
+  <head style="font-size:10px;">
       Completed/In Progress CompSci Courses so Far:
-    </font>
   </head>
   <table>
     <tr>
