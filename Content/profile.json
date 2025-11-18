@@ -22,8 +22,8 @@
   "Employment": "None",
   "Role": "Student",
   "EmploymentText": "I am presently a full-time student",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "Python ", " Azure Web Hosting", " Algorithm Design/Analysis", " Agile & Waterfall Methodologies", " Data Structures"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Agile & Waterfall Methodologies", " Data Structures"],
+  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
