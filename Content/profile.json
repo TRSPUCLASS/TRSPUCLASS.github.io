@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-portrait.png",
-  "AboutText": "Hi, I am Thomas Robertson. I am a computer science student with an interest in software development and programming. I am pursuing my undergraduate degree at Seattle Pacific University. I am expanding my knowledge and skills in a variety of areas of computer science.<br><br>I enjoy examining new ways to code and I prefer to work in well-managed collaborative environments.<br><br>Outside of class, I spend most of my time reading whatever is at hand. I believe that learning new things is a critical part of life, and try to do so when I have the time."
+  "AboutText": "Hi, I am Thomas Robertson. I am a computer science student with an interest in software development and programming. I am pursuing a bachelor of arts at Seattle Pacific University. I am expanding my knowledge and skills in a variety of areas of computer science.<br><br>I enjoy examining new ways to code and I prefer to work in well-managed collaborative environments.<br><br>Outside of class, I spend most of my time reading whatever is at hand. I believe that learning new things is a critical part of life, and try to do so when I have the time."
 },
 "Contact": {
   "EMail": "robertsonr4@spu.edu",
@@ -23,19 +23,19 @@
   "Role": "Student",
   "EmploymentText": "I am presently a full-time student",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Agile & Waterfall Methodologies", " Data Structures"],
-  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science.",
+  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science. <br><br> I recently completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
     "Title": "Big Data Graph Traversal",
-    "Desc": "An early team project for a class, we created a node traversal for one of Google's big data sets. Implemented rather naively, it does do the job it was meant to do... albeit with some inefficencies.",
+    "Desc": "An early team project for a class, we created a node traversal for one of Google's big data sets. Implemented rather naively, it does do the job it was meant to do... albeit with some inefficencies. I was the primary contributor to this project.",
     "GitHubRepo": "https://github.com/TRSPUCLASS/Big-Data-Graph-Analysis-Public-Personal",
     "MainImage": "P1Main.png",
     "DetailImages": []
   },
   "Project2": {
     "Title": "Seekr",
-    "Desc": "My in-progress Senior Capstone project, an app by team Whitespace that helps with job applications.",
+    "Desc": "My in-progress Senior Capstone project, an app by team Whitespace that helps with job applications. I am presently a developer of this project.",
     "GitHubRepo": "",
     "MainImage": "P2Main.png",
     "DetailImages": []
