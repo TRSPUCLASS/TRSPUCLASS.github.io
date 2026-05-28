@@ -35,23 +35,9 @@
   },
   "Project2": {
     "Title": "Seekr",
-    "Desc": "My in-progress Senior Capstone project, an app by team Whitespace that helps with job applications. I am presently a developer of this project.",
+    "Desc": "My senior capstone project, a three-quarters long collaboration witha small team. Programmed in a mixture of HTML, CSS, and TypeScript (A variant of JavaScript that has stronger typing), this project provides a variety of functions helpful to any job seeker.\nCore features of this project include keeping a record of jobs applied to by the user, aggregating those records into graphs and statistics, providing autofill functionality on common job sites, and providing access to AI for the completion of complex fields.\n\nI was a developer on this project, primarily working on the backend database and the integration of the backend into the wider extension.\nOur team alternated the role of Scrum Master between us, so I also performed the duties of that role.",
     "GitHubRepo": "",
     "MainImage": "P2Main.png",
-    "DetailImages": []
-  },
-  "Project3": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
-  },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
     "DetailImages": []
   }
 }
