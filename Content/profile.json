@@ -22,8 +22,8 @@
   "Employment": "None",
   "Role": "Student",
   "EmploymentText": "I am presently a full-time student",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Agile & Waterfall Methodologies", " Data Structures"],
-  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science. <br><br> I recently completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
+  "Skills": ["C++", " JavaScript", " TypeScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Operating Systems", " Scrum", " Agile & Waterfall Methodologies", " Data Structures"],
+  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science. <br><br> I have completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
