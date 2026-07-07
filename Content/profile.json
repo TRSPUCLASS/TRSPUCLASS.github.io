@@ -22,7 +22,7 @@
   "Employment": "Unemployed",
   "Role": "Job Seeker",
   "EmploymentText": "Having recently graduated from university, I am searching for a job in Computer Science.",
-  "Skills": ["C++", " JavaScript", " TypeScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Operating Systems", " Scrum", " Agile & Waterfall Methodologies", " Data Structures", "Writing", "Critical Thinking", "Operating Systems"],
+  "Skills": ["C++", " JavaScript", " TypeScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Operating Systems", " Scrum", " Agile & Waterfall Methodologies", " Data Structures", " Writing", " Critical Thinking", " Operating Systems"],
   "SkillsText": "I've studied many different parts of programming, and have done so in a variety of programming languages. I am well-versed in both the practical and theoretical sides of Computer Science. <br><br> I have completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
   "Resume": "RobertsonResume.pdf"  
 },
