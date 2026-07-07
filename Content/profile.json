@@ -18,12 +18,12 @@
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
   "Graduation": "June 2026",
-  "EducationText": "I started SPU in fall 2023, and have been enjoying it so far.",
-  "Employment": "None",
-  "Role": "Student",
-  "EmploymentText": "I am presently a full-time student",
-  "Skills": ["C++", " JavaScript", " TypeScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Operating Systems", " Scrum", " Agile & Waterfall Methodologies", " Data Structures"],
-  "SkillsText": "I've studied a variety of concepts in programming, in a variety of languages. I am decently well-versed in both the practical and theoretical sides of Computer Science. <br><br> I have completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
+  "EducationText": "I graduated summa cum laude from SPU's Bachelor of Arts program, with a major in computer science.",
+  "Employment": "Unemployed",
+  "Role": "Job Seeker",
+  "EmploymentText": "Having recently graduated from university, I am searching for a job in Computer Science.",
+  "Skills": ["C++", " JavaScript", " TypeScript", " Node", " CSS"," HTML", "Python ", "MIT Scheme", "Go", " Azure Web Hosting", " Algorithm Design/Analysis", " Operating Systems", " Scrum", " Agile & Waterfall Methodologies", " Data Structures", "Writing", "Critical Thinking", "Operating Systems"],
+  "SkillsText": "I've studied many different parts of programming, and have done so in a variety of programming languages. I am well-versed in both the practical and theoretical sides of Computer Science. <br><br> I have completed the Microsoft Azure Developer Associate certification, and so have knowledge of how to deploy web apps to that platform.",
   "Resume": "RobertsonResume.pdf"  
 },
 "Project1": {
